@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file:$MODULE_DIR$/../../..//$MODULE_DIR$" />
-    <content url="file:$MODULE_DIR$/../../../muon/incoming/lan-data-logger" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file:D:/..//D:/wwwroot/lan-data-logger" />
+    <content url="file:D:/../muon/incoming/lan-data-logger" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
