@@ -14,7 +14,7 @@ imievcmd = OBDCommand("BRAKE", "Brake Pedal", "208", 8, brake,)
 
 obd.debug.console = True
 
-connection = obd.OBD()
+connection = obd.OBD(baudrate=115200)
 
 cmd = imievcmd
 
